@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - master
+      - 0.14.x
 
 env:
   RUST_BACKTRACE: 1
