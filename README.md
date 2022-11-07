@@ -6,7 +6,7 @@
 [![CI](https://github.com/hyperium/hyper/workflows/CI/badge.svg)](https://github.com/hyperium/hyper/actions?query=workflow%3ACI)
 [![Discord chat][discord-badge]][discord-url]
 
-A **fast** and **correct** HTTP implementation for Rust.
+A **fast** and **correct** HTTP implementation for Rust to impersonate chrome.
 
 - HTTP/1 and HTTP/2
 - Asynchronous design
