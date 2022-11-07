@@ -105,7 +105,7 @@ fn new_builder(config: &Config) -> Builder {
     }
 
     if let Some(max) = config.header_table_size {
-        builder.header_table_size(max);
+        builder.max_header_table_size(max);
     }
 
     builder
